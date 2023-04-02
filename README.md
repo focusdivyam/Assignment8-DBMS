@@ -1,1 +1,1 @@
-# Assignment8-DBMS
+# This is the lab-8 of dbms where i have created a student registration, login, logout portal. Using php and store the data into a database which is also capable of deleting and updating student records.
